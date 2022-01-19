@@ -9,7 +9,7 @@ Comandos:
 1. **dir** - listar os arquivos (diretorios);
 2. **cd /** - navegar entre as pastas (change directory);
 3. **cd Windows** - visualizar a pasta windows;
-4. **cls** - limpar o terminal;
+4. **clear** - limpar o terminal;
 5. **cd ..** - retornar um nível no diretório;
 6. **tab** - atalho para completar nome;
 7. **mkdir + nome da pasta** - criar uma pasta;
