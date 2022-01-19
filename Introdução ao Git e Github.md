@@ -1,6 +1,6 @@
 #  Sintaxe Git
 
-[Sintaxe Markdown] (https://www.markdownguide.org/basic-syntax/)
+[Sintaxe Markdown](https://www.markdownguide.org/basic-syntax/)
 
 ### Para windows:
 
