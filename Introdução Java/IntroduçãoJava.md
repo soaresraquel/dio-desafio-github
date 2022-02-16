@@ -67,6 +67,20 @@ Existem 2 tipos de métodos:
 
 Os comentários precisam conter tags para que a documentação fique legível.
 
+## Tags Javadoc
+
+|    Tags     |                           Funções                            |
+| :---------: | :----------------------------------------------------------: |
+|   @author   |          especifica o autor da classe ou do método           |
+| @deprecated |           identifica classes ou métodos obsoletos            |
+|    @link    | possibilita a definição de um link p/ um outro documento local ou remoto através de um URL |
+|   @param    |      descreve um parâmetro que será passado a um método      |
+|   @return   |          descreve qual tipo de retorno de um método          |
+|    @see     |             associa a outras classes ou métodos              |
+|   @since    |  descreve desde quando uma classe ou métodos foi adicionado  |
+|   @throws   | descreve os tipos de exceções que podem ser lançadas por um método |
+|  @version   |            descreve a versão da classe ou método             |
+
 
 
 # Atalhos no Eclipse
