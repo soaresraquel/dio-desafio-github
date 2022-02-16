@@ -89,3 +89,32 @@ Os comentários precisam conter tags para que a documentação fique legível.
 2. ctrl + d - apagar a linha
 3. ctrl + 3 - buscar comandos
 4. ctrl + shift + f - reorganizar a indentação 
+
+
+
+# Casting (conversões)
+
+É a transformação de uma determinada variável de tipo menos específico para um tipo mais específico ou vice-versa.
+
+
+
+→ Tipos:
+
++ Upcast (implícito)
++ Downcast (explícito)
+
+
+
+# Utilização 
+
+|            | byte  | short | char  |  int  | long  | float | double |
+| :--------: | :---: | :---: | :---: | :---: | :---: | :---: | :----: |
+|  **byte**  | **-** | U - I | char  | U - I | U - I | U - I | U - I  |
+| **short**  | D - E | **-** | char  | U - I | U - I | U - I | U - I  |
+|  **char**  | D - E | D - E | **-** | U - I | U - I | U - I | U - I  |
+|  **int**   | D - E | D - E | D - E | **-** | U - I | U - I | U - I  |
+|  **long**  | D - E | D - E | D - E | D - E | **-** | U - I | U - I  |
+| **float**  | D - E | D - E | D - E | D - E | D - E | **-** | U - I  |
+| **double** | D - E | D - E | D - E | D - E | D - E | D - E | **-**  |
+
+U - I: Upcast - Implícito; D - E: Downcast - Explícito
