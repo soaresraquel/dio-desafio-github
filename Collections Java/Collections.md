@@ -19,10 +19,27 @@
 
 
 
-## Iterações ordenadas: Listas
+## Interface List
 
 ### java.util.List
 
-+ Elementos duplicados e garante ordem de inserção 
++ Elementos duplicados e garante ordem de inserção.
 
 **OBS**: *ArrayList* deve ser usado onde mais operações de pesquisa são necessárias, e *LinkedList* deve ser usado onde mais operações de inserção e exclusão são necessárias.
+
+
+
+## Interface Set
+
+### java.util.Set
+
++ Não permite elementos duplicados;
++ Não possui índice.
+
+
+
+## Interface Map
+
+### java.util.Map
+
++ Elementos únicos (key) para cada valor (value);
