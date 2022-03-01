@@ -15,7 +15,7 @@
 
 ## Hierarquia 
 
-![image-20220228181658631](C:\Users\Raquel\AppData\Roaming\Typora\typora-user-images\image-20220228181658631.png)
+<img src = "https://i.stack.imgur.com/YDt8R.png" />
 
 
 
