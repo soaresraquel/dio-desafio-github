@@ -42,4 +42,4 @@
 
 ### java.util.Map
 
-+ Elementos únicos (key) para cada valor (value);
++ Elementos únicos (key) para cada valor (value).
